@@ -7,8 +7,13 @@ fun main() {
 
     println("Hello, " + name + "!")
     idea()
+    buttonSubmit()
 
 }
 fun idea(){
     println("new data")
+
+}
+fun buttonSubmit(){
+    println("Ваши данные успешно отправлены")
 }
